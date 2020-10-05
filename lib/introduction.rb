@@ -1,5 +1,4 @@
-
-student_name = "Josh!"
+student_name = "Josh"
 
 
 def introduction("Josh" = student_name)
