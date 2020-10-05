@@ -1,6 +1,7 @@
 
-phrase = "Hi, my name is Josh!"
+student_name = "Josh!"
 
 
-def Introduction(phrase)
-  puts (phrase)
+def introduction(student_name)
+  puts "Hi, my name is #{student-name]"
+end
