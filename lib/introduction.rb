@@ -2,6 +2,9 @@
 student_name = "Josh!"
 
 
-def introduction(student_name)
-  puts "Hi, my name is #{student-name]"
-end
+def introduction("Josh" = student_name)
+  puts "Hi, my name is #{student_name}."
+  
+end 
+
+
