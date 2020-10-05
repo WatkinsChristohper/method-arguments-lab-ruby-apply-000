@@ -7,7 +7,8 @@ def introduction("Josh" = student_name)
   
 end 
 
-student = 
-language=
+student =  "Dan"
+language=  "Ember.js"
 
 def introduction_with_language
+  puts 
