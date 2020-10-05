@@ -6,10 +6,10 @@ def introduction(student_name)
   
 end 
 
-name =  "Dan"
+student =  "Dan"
 language =  "Ember.js"
 
 
-def introduction_with_language(name,language)
+def introduction_with_language(student,language)
   puts "Hi, my name is #{student} and I amlearning in to program #{language}."
 end
