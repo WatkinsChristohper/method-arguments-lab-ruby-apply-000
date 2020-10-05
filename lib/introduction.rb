@@ -11,5 +11,5 @@ language =  "Ember.js"
 
 
 def introduction_with_language(student,language)
-  puts "Hi, my name is #{student} and I amlearning in to program #{language}."
+  puts "Hi, my name is #{student} and I am learning in to program #{language}."
 end
